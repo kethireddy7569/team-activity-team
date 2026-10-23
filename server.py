@@ -34,7 +34,7 @@ DEFAULT_EMPLOYEE_NAMES = {
     "CRFT-IT-260804": "Kota Srinivasa Reddy",
     "CRFT-IT-260805": "Kavanuru Soundarya",
     "CRFT-IT-260906": "Damodhara K S S Vara Prasad",
-    "CRFT-IT-260906": "Korada Raviteja"
+    "CRFT-IT-260907": "Korada Raviteja"
     }
 
 try:
